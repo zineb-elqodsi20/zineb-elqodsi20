@@ -17,7 +17,7 @@
 🌍 Langues : 🇫🇷 Français | 🇬🇧 Anglais | 🇲🇦 العربية  
 🚀 Ouverte à des projets freelance en full-stack  
 🔧 J’aime résoudre des problèmes et apprendre de nouvelles technologies  
-📫 Contact : [zinebelqd@email.com](mailto:zinebelqd@email.com) | [LinkedIn – Zineb El Qodsi](https://www.linkedin.com/in/...)  
+📫 Contact : [zinebelqd@email.com](mailto:zinebelqd@email.com) | [LinkedIn – Zineb El Qodsi](www.linkedin.com/in/zineb-el-qodsi-64578b333)  
 
 
 
