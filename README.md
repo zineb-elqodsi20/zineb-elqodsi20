@@ -11,7 +11,7 @@
 ## 🚀 À propos de moi
 
 🎓 Jeune diplômée en développement web  
-🛠️ Technologies : HTML, CSS, JavaScript, React.js, PHP, Laravel, Tailwind CSS,Python 
+🛠️ Technologies : HTML, CSS, JavaScript, React.js, PHP, Laravel, Tailwind CSS,Python .
 💾 Bases de données : SQL, NoSQL (MongoDB)  
 🧰 Outils : Postman, Git & GitHub, VS Code  
 🌍 Langues : 🇫🇷 Français | 🇬🇧 Anglais | 🇲🇦 العربية  
