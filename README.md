@@ -32,7 +32,6 @@
 | 📊 **Smollan Dashboard** | Tableau de bord + login sécurisé (stage) | Laravel, React.js |
 
 ---
-
 ### 🧰 Mes outils
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -42,6 +41,8 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
 
 ---
 
