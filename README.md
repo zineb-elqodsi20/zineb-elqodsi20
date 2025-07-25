@@ -11,13 +11,14 @@
 ## 🚀 À propos de moi
 
 🎓 Jeune diplômée en développement web  
-🛠️ Technologies : HTML, CSS, JavaScript, React.js, PHP, Laravel, Tailwind CSS,Python .
+🛠️ Technologies : HTML, CSS, JavaScript, React.js, PHP, Laravel, Tailwind CSS, Python  
 💾 Bases de données : SQL, NoSQL (MongoDB)  
 🧰 Outils : Postman, Git & GitHub, VS Code  
 🌍 Langues : 🇫🇷 Français | 🇬🇧 Anglais | 🇲🇦 العربية  
 🚀 Ouverte à des projets freelance en full-stack  
 🔧 J’aime résoudre des problèmes et apprendre de nouvelles technologies  
 📫 Contact : [zinebelqd@email.com](mailto:zinebelqd@email.com) | [LinkedIn – Zineb El Qodsi](https://www.linkedin.com/in/...)  
+
 
 
 ---
