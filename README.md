@@ -1,58 +1,76 @@
-<h1 align="center">👋 Bonjour, je suis Zineb !</h1>
+# 👋 Bonjour, je suis Zineb El Qodsi
 
-<p align="center">
-  💻 Développeuse Full-Stack Junior passionnée par le web moderne  
-</p>
-
-
+💻 Développeuse Full-Stack | React.js • Laravel • MySQL • Tailwind CSS  
+📍 Casablanca, Maroc  
+🎯 Passionnée par le développement d’applications web modernes, performantes et utiles.
 
 ---
+
 ## 🚀 À propos de moi
 
-🎓 Jeune diplômée en développement web  
-🛠️ Technologies : HTML, CSS, JavaScript, React.js, PHP, Laravel, Tailwind CSS, Python, Inertia.js, EmailJS  
-💾 Bases de données : SQL, NoSQL (MongoDB)  
-🧰 Outils : Postman, Git & GitHub, VS Code  
-🌍 Langues : 🇫🇷 Français | 🇬🇧 Anglais | 🇲🇦 العربية  
-🚀 Ouverte à des projets freelance en full-stack  
-🔧 J’aime résoudre des problèmes et apprendre de nouvelles technologies  
-📫 Contact : [zinebelqd@email.com](mailto:zinebelqd@email.com) | [LinkedIn – Zineb El Qodsi](www.linkedin.com/in/zineb-el-qodsi-64578b333)
+Je suis développeuse Full-Stack spécialisée en React.js et Laravel.  
+J’ai conçu, développé et déployé des applications web complètes, de la conception UI/UX jusqu’au développement Front-End, Back-End et à la gestion des bases de données.
 
-
-
+- Front-End : React.js, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Bootstrap
+- Back-End : Laravel, PHP, APIs REST
+- Base de données : MySQL
+- Outils : Git, GitHub, Postman, Jira, VS Code
+- Méthodologie : Agile / Scrum
 
 ---
-## 🚀 Mes Projets
+
+## 💼 Expérience principale
+
+### HSE Lab Online
+Plateforme de gestion des analyses de laboratoire développée avec React.js, Laravel, MySQL et Tailwind CSS.
+
+- Gestion des clients, demandes d’analyses, devis et rapports
+- Authentification sécurisée et gestion des rôles utilisateurs
+- Développement Front-End et Back-End
+- Conception UI/UX
+- Déploiement et maintenance de l’application
+
+---
+
+## 🧩 Projets principaux
 
 | Projet | Description | Technologies |
-|--------|-------------|--------------|
-| 🚗 **Rent My Ride** | Application de location de voiture multilingue | Laravel, React.js, PDF, Mail, Multilingue |
-| 📊 **Smollan Dashboard** | Tableau de bord + login sécurisé (stage) | Laravel, React.js |
-| 📷 **Portfolio Photographer** | Portfolio moderne et responsive pour un photographe avec formulaire de contact (EmailJS) | React.js, Tailwind CSS, EmailJS |
-
-
----## ⚒️ Mes outils
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Inertia.js](https://img.shields.io/badge/-Inertia.js-9553E9?style=for-the-badge&logo=buffer&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-
+|---|---|---|
+| HSE Lab Online | Plateforme de gestion des analyses de laboratoire | React.js, Laravel, MySQL, Tailwind CSS |
+| Rent My Ride | Application web de réservation de véhicules | React.js, Laravel, MySQL |
+| Corpo360 | Application de gestion avec authentification et opérations CRUD | React.js, Laravel |
+| Smollan Dashboard | Tableau de bord interactif de visualisation de données | React.js, Laravel |
+| Portfolio Photographer | Portfolio responsive avec formulaire de contact | React.js, Tailwind CSS, EmailJS |
+| Portfolio Personnel | Site personnel présentant mes projets et compétences | React.js, Tailwind CSS |
 
 ---
 
+## 🛠️ Compétences techniques
 
+**Front-End**  
+React.js • JavaScript ES6+ • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
+**Back-End**  
+Laravel • PHP • APIs REST
 
+**Base de données**  
+MySQL
 
-### 🙌 Merci pour votre visite !
+**Outils**  
+Git • GitHub • Postman • Jira • VS Code
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+---
 
+## 🌍 Langues
+
+- Arabe : langue maternelle
+- Français : B1/B2
+- Anglais : B1
+
+---
+
+## 📫 Contact
+
+- Email : zinebelqd@gmail.com
+- LinkedIn : Zineb El Qodsi
+- Portfolio : https://zinebelqodsi.netlify.app/
